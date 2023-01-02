@@ -1,7 +1,7 @@
 import React from "react"
 
 export default function jsx4(){
-const sub = "Estou no JavaScript"
+const sub = "Estou no JavaScript!"
     return (
  <div>
 
